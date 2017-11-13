@@ -1,3 +1,9 @@
-* {
-  background-color: black;
+html{
+  font-size: 18px;
+}
+
+.company .container {
+  display:flex;
+  align-items: center;
+  padding: 12px 0px 12px 0.5em;
 }
