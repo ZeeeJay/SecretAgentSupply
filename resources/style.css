@@ -7,3 +7,7 @@ html{
   align-items: center;
   padding: 12px 0px 12px 0.5em;
 }
+footer{
+  text-align: left;
+  height:5rem;
+}
